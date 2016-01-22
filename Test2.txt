@@ -1,0 +1,5 @@
+Function to add a client
+
+Function to remove a client
+
+An object is configured inside Salesforce
