@@ -5,3 +5,4 @@ Function to remove a client
 An object is configured inside Salesforce
 
 btw this is to demonstrate the power of git
+Bug fix #2133
