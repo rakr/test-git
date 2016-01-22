@@ -3,3 +3,5 @@ Function to modify a client
 Function to remove a client
 
 An object is configured inside Salesforce
+
+btw this is to demonstrate the power of git
